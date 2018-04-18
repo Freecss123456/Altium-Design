@@ -1,6 +1,9 @@
 PCB规则：
 1、定位孔：大小3mm,距边角3mm
+2、丝印标签：大小10mil*2mil,位置(全选+a+p)
 1、间隙：一般6mil
+通孔：内径12mil，外径24mil
+solder mask 2.5mil
 
 
 PCB画图注意点：
