@@ -15,3 +15,5 @@ PCB界面：
 11、Shift+E  关闭热点吸附，在一些连线不需要吸附到焊盘中央的时候有用
 12、Shift + V：显示冲突
 13、F11、调出PCB Inspector
+14、shift+空格：圆角导线
+15、shift+M:放大镜
