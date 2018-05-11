@@ -2,7 +2,7 @@ PCB规则：（视频第三部分1:30:00）
 1、定位孔：大小3mm,距边角3mm
 2、丝印标签：大小10mil*2mil,位置(全选+a+p)
 3、间隙：一般6mil、电源10mil
-4、线宽：一般10/12mil,电源20mil,最小最大分别是preferred的1/2和2倍
+4、线宽：一般6/10mil,电源20mil,最小最大分别是preferred的1/2和2倍
 通孔：内径12mil，外径24mil
 solder mask 2.5mil
 
