@@ -3,8 +3,16 @@ PCB规则：（视频第三部分1:30:00）
 2、丝印标签：大小10mil*2mil,位置(全选+a+p)
 3、间隙：一般6mil、电源10mil
 4、线宽：一般6/10mil,电源15/20mil,最小最大分别是preferred的1/2和2倍
-通孔：内径12mil，外径24mil
-solder mask 2.5mil
+5、通孔：内径12mil，外径24mil
+孔径优选系列如下：
+孔径：           24mil 20mil 16mil 12mil 8mil
+焊盘直径：       40mil 35mil 28mil 25mil 20mil
+内层热焊盘尺寸： 50mil 45mil 40mil 35mil 30mil
+
+板厚度与最小孔径的关系：
+板厚：     3.0mm 2.5mm 2.0mm 1.6mm 1.0mm
+最小孔径： 24mil 20mil 16mil 12mil 8mil 
+6、solder mask 2.5mil
 
 
 PCB画图注意点：
