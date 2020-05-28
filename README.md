@@ -16,4 +16,11 @@ ___粗斜体文本___
 - - -  
 ----------  
 ~~文字两端加两个波浪实现删除线~~  
-注脚的使用[^要注明的文本] 
+
+`print`函数  
+
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
